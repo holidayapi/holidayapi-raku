@@ -44,5 +44,5 @@ else {
 ## See also
 
 Raku code in a program and module that gets and uses the downloaded data can be seen at
-[https://github.com/tbrowder/holidayapi](https://github.com/tbrowder/HolidayAPI).
+[https://github.com/tbrowder/HolidayAPI](https://github.com/tbrowder/HolidayAPI).
 That module will be published as a Raku module soon.
