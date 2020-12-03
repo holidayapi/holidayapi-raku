@@ -5,7 +5,7 @@ Official Raku library for Holiday API
 
 Required module
 
-```raku 
+```raku
 $ zef install HTTP::UserAgent
 ```
 
@@ -43,6 +43,6 @@ else {
 
 ## See also
 
-Raku code that uses the downloaded data can be seen at
-[https://github.com/tbrowder/holidayapi](https://github.com/tbrowder/holidayapi).
-
+Raku code in a program and module that gets and uses the downloaded data can be seen at
+[https://github.com/tbrowder/holidayapi](https://github.com/tbrowder/HolidayAPI).
+That module will be published as a Raku module soon.
